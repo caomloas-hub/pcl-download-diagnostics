@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+backups/
+*.pem
+*.exe
+*.dll
+*.jar
+Log*.txt
+.minecraft/
+.venv/
+dist/
+build/
